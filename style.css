@@ -849,15 +849,6 @@ h2.bg-lines-h2-bg {
     background-image: url("img/image-de-presentation.jpg");
 }
 
-.keywords {
-    color:#cccccc;
-    font-size:1px;
-}
-
-.keywords-footer {
-    color:#F3976C;
-}
-
 .citation {
     font-style: italic;
     font-size: 20px;
