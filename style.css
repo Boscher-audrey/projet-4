@@ -826,8 +826,14 @@ h4 {
     background-image: url("img/dots-bg.png");
 }
 
+.bg-lines-bg {
+    background-image: url("img/lines-h2-bg.png");
+}
+
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
+    background-position-y: 2px;
+    background-color: white;
 }
 
 .bg-banniere {
