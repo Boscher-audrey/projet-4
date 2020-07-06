@@ -859,6 +859,10 @@ h2.bg-lines-h2-bg {
     font-size: 14px;
 }
 
+.text-footer {
+    font-size: 14px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
