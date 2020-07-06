@@ -294,7 +294,7 @@ a:hover {
 
 .navbar-brand {
     height: auto;
-    padding: 3px 15px;
+    padding: 4px 15px;
     font-size: 25px;
     font-weight: normal;
     font-weight: 600;
@@ -435,6 +435,11 @@ nav .caret {
     float: right;
 }
 
+.mg-sm {
+    margin-top: 13px;
+    margin-bottom: 11px;
+}
+
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -443,6 +448,10 @@ nav .caret {
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+}
+
+.padding-sm-l {
+    padding-left: 2px;
 }
 
 .btn {
@@ -836,6 +845,16 @@ h4 {
 
 .keywords-footer {
     color:#F3976C;
+}
+
+.citation {
+    font-style: italic;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.citation + p {
+    font-size: 14px;
 }
 
 @media (max-width: 1024px) {
