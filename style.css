@@ -834,6 +834,9 @@ h4 {
     background-image: url("img/lines-h2-bg.png");
     background-position-y: 2px;
     background-color: white;
+    width: 480px;
+    margin: auto;
+    padding: 10px 0;
 }
 
 .bg-banniere {
